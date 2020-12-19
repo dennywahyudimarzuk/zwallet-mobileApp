@@ -18,4 +18,4 @@
 //   return false;
 // };
 
-export const BASE_URL = 'http://100.26.33.136:8000';
+export const BASE_URL = 'http://54.157.21.5:8000';
