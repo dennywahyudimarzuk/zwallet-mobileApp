@@ -1,8 +1,8 @@
 # Zwallet-mobileApp
 
-![Screenshoot](https://github.com/hnifmaghfur/Zwallet-Android-RN/blob/master/src/assets/gallery/1.png)
+Zwallet payment adalah aplikasi pembayaran online berbasis android yang dikembangkan menggunakan framework React Native. Redux, socket Io, react navigation serta react paper adalah beberapa modul yang digunakan di sisi frontend. Sedangkan Node JS, Express JS, Multer digunakan pada sisi backend. Adapun modul firebase messaging serta firebase admin SDK  digunakan sebagai notifikasi real time. Dengan dukungan dari AWS Educate maka sisi backend dapat di deploy dan berjalan secara online.
 
-Zwallet payment adalah aplikasi pembayaran online berbasis android yang dikembangkan menggunakan framework React Native. Redux, socket Io, react navigation serta react paper adalah beberapa modul yang digunakan di sisi frontend. Sedangkan Node JS, Express JS, Multer digunakan pada sisi backend. Adapun modul firebase messaging serta firebase admin SDK (sisi backend) digunakan sebagai notifikasi real time. Dengan dukungan dari AWS Educate maka sisi backend dapat di deploy dan berjalan secara online.
+![Screenshoot](https://github.com/hnifmaghfur/Zwallet-Android-RN/blob/master/src/assets/gallery/1.png)
 
 ## Tools
 
@@ -11,7 +11,7 @@ Zwallet payment adalah aplikasi pembayaran online berbasis android yang dikemban
 - Android Studio
 
 ## How to Run
-- Download Aplikasi (APK File) pada [Link ini](https://drive.google.com/file/d/1u6N8_eHBA_wgxESFQfl6sERASuE7P16T/view?usp=sharing).
+- Download Aplikasi (APK File) pada [Link ini](https://drive.google.com/file/d/1GxFCDtJKfHwlA5P4fjTjgZitWGSb3e-Z/view?usp=sharing).
 - Akses menggunakan akun <br>
 Email     : `dennywahyudi@gmail.com`<br>
 Password  : `denny1`
